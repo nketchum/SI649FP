@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.html
+.ipynb_checkpoints/
+resources/
+tests.ipynb
+exploration-bak-line-thickness-widget.ipynb
